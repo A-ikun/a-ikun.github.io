@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>程冠希的博客</title>
+  <icon>https://www.gravatar.com/avatar/760ae58f1f528add3e51880ee7db2a08</icon>
+  <subtitle>咱们都是好ikun</subtitle>
+  <link href="https://a-ikun.top/atom.xml" rel="self"/>
+  
+  <link href="https://a-ikun.top/"/>
+  <updated>2022-11-05T00:32:38.199Z</updated>
+  <id>https://a-ikun.top/</id>
+  
+  <author>
+    <name>程冠希</name>
+    <email>1609376578@qq.com</email>
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的第一篇文章</title>
+    <link href="https://a-ikun.top/posts/f568.html"/>
+    <id>https://a-ikun.top/posts/f568.html</id>
+    <published>2022-11-04T15:54:03.000Z</published>
+    <updated>2022-11-05T00:32:38.199Z</updated>
+    
+    <content type="html"><![CDATA[<p>第二次成功运行。<br>遇到的错误：<br>  1、不能执行hexo等操作<br>    解决办法：以管理员的方式打开vscode<br>  2、安装butterfly主题<br>    注意：<br>      1、安装主题可以直接在主文件夹下下载，如果在themes中下载可能会clean后消失，导致上传的时候显示缺少文件，报错。<br>      2、将butterfly中的配置文件复制到主文件夹下新建的配准文件中，主文件夹的优先级高，可以通过更改主文件夹文件来方便操作。（优先级：同名情况下会先执行主文件夹的文件）</p><p>  3、关于上传到github<br>    注意：要在主文件夹下上传，会自动覆盖。<br>  4、关于域名：<br>    步骤：<br>      1、解析域名，一个为www，另一个不用写前缀，内容都填写你的博客在github上的域名（例如：a-ikun.github.io）。<br>      2、在source文件夹下写一个CNAME文件，在里面填写自己的域名。<br>    注意：需要deploy到github上，域名中才会显示你更新的内容。也就是说，你购买的域名指向的是.github.io<br>  5、hexo d的操作需要下载deploy的插件，注意别忘记。<br>  6、hexo n “文章名”可以生成文章，编辑文章后，上传到github即可。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;第二次成功运行。&lt;br&gt;遇到的错误：&lt;br&gt;  1、不能执行hexo等操作&lt;br&gt;    解决办法：以管理员的方式打开vscode&lt;br&gt;  2、安装butterfly主题&lt;br&gt;    注意：&lt;br&gt;      1、安装主题可以直接在主文件夹下下载，如果在themes中下</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
